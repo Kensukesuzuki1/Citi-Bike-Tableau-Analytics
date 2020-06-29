@@ -8,7 +8,7 @@ Visualization of New York's Citi Bike Program utilizing Tableau
 4. Create your own visualizations! 
 
 ## Interesting Facts
-By comparing directly thr first 5 months of 2019 and 2020, we are able to see interesting trends that emerged as a consequence of COVID-19. 
+By comparing directly the first 5 months of 2019 and 2020, we are able to see interesting trends that emerged as a consequence of COVID-19. 
 * Total Ridership is down
 * The demographics of who uses the Bike Program has changed, older people are using it more often. 
 * Trip Duration has increased considerably
